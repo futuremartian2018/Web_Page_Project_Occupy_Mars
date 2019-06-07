@@ -1,0 +1,89 @@
+body
+{
+	background-color: #303030 ;
+	margin: 0 ;
+	padding: 0;
+	font-family: 'Kelly Slab', cursive;
+	font-size: 20px;
+	color: white;
+	text-allign: center;
+}
+
+.title
+{
+	
+	font-family: 'Monoton', cursive;
+	font-size: 68px;
+	margin: 0 ;
+	text-align: center;
+
+}
+
+.header
+{	
+	background-color: #303030;	
+}
+
+.home
+{
+	text-decoration:none;
+	height: 68px;
+	width: 	68px;
+	color: #DAA520;
+}
+
+.getin
+{
+	text-align:center;
+	background-color: #282828;
+	width: 30%;
+	margin-left: 35%;
+	margin-right:35%;
+	border-radius: 15px;
+}
+
+.log
+{
+	pardding:15px;
+	
+}	
+
+.in
+{
+	border-radius: 10px;
+	margin: 10px;
+	padding: 12px;
+	color: red;
+	border-color: #9B7317;
+}
+
+.logbut
+{
+	font-family: 'Kelly Slab', cursive;
+	font-size: 20px;
+	background-color: #178A8A;
+	border-radius: 5px;
+	border-color: #178A8A;	
+	margin-bottom: 10px;
+}
+
+.register
+{
+	color: #4E7C1A;
+	text-decoration: none;
+	
+}
+
+.info
+{
+	padding: 10px;
+	color: white;
+}
+
+.ltitle
+{	
+	padding: 10px;
+	padding-bottom: 0px;
+	color: #178A8A;
+	font-family: 'Kelly Slab', cursive;
+}

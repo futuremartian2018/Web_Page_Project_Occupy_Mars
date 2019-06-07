@@ -1,0 +1,149 @@
+body
+{
+	background-color: #303030 ;
+	margin: 0 ;
+	padding: 0;
+	font-family: 'Kelly Slab', cursive;
+	font-size: 20px;
+	text-align:center;
+/*	color: white;*/
+	
+}
+.acinfo
+{
+	font-family: 'Kelly Slab', cursive;
+	font-size: 20px;
+	line-height: 200%;
+	padding: 10px;
+	margin:5px;
+	color: white;
+}
+
+.title
+{
+	
+	
+	margin: 0 ;
+	text-align: center;
+	font-size: 68px;
+	font-family: 'Monoton', cursive;
+	float:left;
+	width: 75%;
+
+}
+
+.info
+{
+	padding: 10px;
+	margin: 0;
+	float:left;
+	background-color: #303021
+	text-align: center;	
+}
+.loglist
+{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	line-height: 200%;
+	
+}
+
+.loglist > li
+{
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top : 15px;
+}
+
+
+.loglist a
+{
+	color:white ;
+	text-decoration:none ;
+}
+
+.loglist a:hover
+{
+	color: #bbbbbb ;
+	z-index: 75;
+}
+
+.header
+{	
+	background-color: #303030;	
+	text-align:center;
+}
+
+.home
+{
+	text-decoration:none;
+	height: 68px;
+	width: 	68px;
+	color: #DAA520;
+}
+
+.getin
+{
+	text-align:center;
+	background-color: gray;
+	width: 30%;
+	margin-left: 20%;
+	border-radius: 15px;
+	float: left;
+}
+
+.log
+{
+	pardding:15px;
+	
+}	
+
+.in
+{
+	border-radius: 10px;
+	margin: 10px;
+	padding: 12px;
+	color: red;
+	border-color: #9B7317;
+}
+
+.logbut
+{
+	font-family: 'Kelly Slab', cursive;
+	font-size: 20px;
+	background-color: #9B7317;
+	border-color: #9B7317;	
+	margin-bottom:8px;
+}
+
+.register
+{
+	color: #4E7C1A;
+	text-decoration: none;
+	
+}
+
+.info{
+	padding: 10px;
+	color: white;
+}
+
+
+.photo
+{
+	float:left;
+	width: 30%;
+	background-color: #F9E6E6;
+	border-radius: 15px;
+	text-align: center;
+	padding: 15px;
+}
+
+.imac
+{
+	width: 95%;
+	border-radius: 10px;
+}
